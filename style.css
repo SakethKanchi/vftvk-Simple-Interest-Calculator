@@ -41,7 +41,7 @@ table td
 #compute
 {
     margin-bottom: 10px;
-    background-color: teal;
+    background-color: blue;
     color: rgb(202, 196, 196);
     height: 40px;
     width: 325px;
@@ -68,5 +68,5 @@ table td
 
 .highlight
 {
-    background-color: #6a609e;
+    background-color: yellow;
 }
